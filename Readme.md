@@ -80,5 +80,6 @@ Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, u
 *  Veri gönderirken ağ takibi
 *  Quagga nedir ?
 
+![](https://hayalindekiyasam.files.wordpress.com/2020/07/oldu.png)
 
  <div style="text-align:center;"><a style="background-color: #ff9f40; border: none; color: white; padding: 15px 22px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 0px; margin-left: 0px;cursor: pointer; border-radius: 4px;" class="custom-buton" href="https://github.com/melikeoguz/Ubuntu/blob/master/170201028%20Melike%20Oğuz.pdf">İsterlerin Yapılışını Görüntüle</a></div>
