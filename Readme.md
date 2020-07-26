@@ -12,7 +12,7 @@ Kişisel Bilgisayarınızda Virtualbox üzerinde;
 
 Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, userver3 olarak değiştirin.
 
-<h5>Senaryo 1</h5> 
+<h4>Senaryo 1</h4> 
 <code>Senaryo 1.1</code>
 
 * Ubuntu Desktop için Ağ bağdaştırıcı ayarlarını NAT olarak ayarlayıp HOST (Kullandığınız) bilgisayardan SSH bağlantısı yapabildiğinizi (PORT yönlendirme ayarlarını yaptıktan sonra), ping yapamadığınızı gösterin. 
@@ -28,7 +28,7 @@ Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, u
 
 </br>
 
-<h5>Senaryo 2 </h5>
+<h4>Senaryo 2 </h4>
 
     Numaranızın son iki rakamı S ve R olarak kabul edilmiştir. 
 
@@ -49,7 +49,7 @@ Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, u
 
 </br>
 
-<h5>Senaryo 3</h5> 
+<h4>Senaryo 3</h4> 
 
 * uPC1 , uPC2 , userver1 ve userver2 için bir ağ bağdaştırıcısını NAT, diğerini dahili ağ olarak ayarlayın.
 
