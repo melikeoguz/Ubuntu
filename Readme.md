@@ -30,7 +30,7 @@ Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, u
 
 </br>
 
-<h4>Senaryo 2 </h4>
+<h3>Senaryo 2 </h3>
 
     Numaranızın son iki rakamı S ve R olarak kabul edilmiştir. 
 
@@ -51,7 +51,7 @@ Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, u
 
 </br>
 
-<h4>Senaryo 3</h4> 
+<h3>Senaryo 3</h3> 
 
 * uPC1 , uPC2 , userver1 ve userver2 için bir ağ bağdaştırıcısını NAT, diğerini dahili ağ olarak ayarlayın.
 
