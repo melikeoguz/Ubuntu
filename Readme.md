@@ -12,6 +12,8 @@ Kişisel Bilgisayarınızda Virtualbox üzerinde;
 
 Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, userver3 olarak değiştirin.
 
+[<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/yonlendir.png">](https://github.com/nurdannvaynii/Linux-Proje/blob/master/proje.adoc)
+
 <h4>Senaryo 1</h4> 
 <code>Senaryo 1.1</code>
 
