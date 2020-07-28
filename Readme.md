@@ -14,7 +14,7 @@ Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, u
 
 [<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/yonlendir-1.png">](https://github.com/nurdannvaynii/Linux-Proje/blob/master/proje.adoc)
 
-<h3>Senaryo 1</h3> 
+<h3><ins>Senaryo 1<ins></h3> 
 <code>Senaryo 1.1</code>
 
 * Ubuntu Desktop için Ağ bağdaştırıcı ayarlarını NAT olarak ayarlayıp HOST (Kullandığınız) bilgisayardan SSH bağlantısı yapabildiğinizi (PORT yönlendirme ayarlarını yaptıktan sonra), ping yapamadığınızı gösterin. 
@@ -30,7 +30,7 @@ Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, u
 
 </br>
 
-<h3>Senaryo 2 </h3>
+<h3><ins>Senaryo 2 </ins></h3>
 
     Numaranızın son iki rakamı S ve R olarak kabul edilmiştir. 
 
@@ -51,7 +51,7 @@ Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, u
 
 </br>
 
-<h3>Senaryo 3</h3> 
+<h3><ins>Senaryo 3</ins></h3> 
 
 * uPC1 , uPC2 , userver1 ve userver2 için bir ağ bağdaştırıcısını NAT, diğerini dahili ağ olarak ayarlayın.
 
