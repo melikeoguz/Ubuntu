@@ -12,9 +12,9 @@ Kişisel Bilgisayarınızda Virtualbox üzerinde;
 
 Klonladıktan sonra bilgisayarların isimlerini uPC2,uPC3, DC2, DC3, userver2, userver3 olarak değiştirin.
 
-[<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/yonlendir.png">](https://github.com/nurdannvaynii/Linux-Proje/blob/master/proje.adoc)
+[<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/yonlendir-1.png">](https://github.com/nurdannvaynii/Linux-Proje/blob/master/proje.adoc)
 
-<h4>Senaryo 1</h4> 
+<h3>Senaryo 1</h3> 
 <code>Senaryo 1.1</code>
 
 * Ubuntu Desktop için Ağ bağdaştırıcı ayarlarını NAT olarak ayarlayıp HOST (Kullandığınız) bilgisayardan SSH bağlantısı yapabildiğinizi (PORT yönlendirme ayarlarını yaptıktan sonra), ping yapamadığınızı gösterin. 
